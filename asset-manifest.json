@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/addjobsapp/static/css/main.7c196df7.css",
+    "main.js": "/addjobsapp/static/js/main.c7611ad8.js",
+    "static/js/787.856a2c82.chunk.js": "/addjobsapp/static/js/787.856a2c82.chunk.js",
+    "index.html": "/addjobsapp/index.html",
+    "main.7c196df7.css.map": "/addjobsapp/static/css/main.7c196df7.css.map",
+    "main.c7611ad8.js.map": "/addjobsapp/static/js/main.c7611ad8.js.map",
+    "787.856a2c82.chunk.js.map": "/addjobsapp/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c196df7.css",
+    "static/js/main.c7611ad8.js"
+  ]
+}

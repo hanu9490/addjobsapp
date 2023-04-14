@@ -1,0 +1,38 @@
+.job-card-container{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    box-shadow: 2px 2px 4px 2px #aaaaaa;
+    padding: 10px;
+    border-radius: 5px;
+    height: 35vh;
+}
+
+.card-title{
+    font-size: 18px;
+    text-align: start;
+}
+
+.img-company-con{
+    display: flex;
+
+}
+
+.profile-img{
+    height: 50px;
+    width: 50px;
+}
+
+.salary-con{
+    display: flex;
+    justify-content: space-between;
+}
+
+.salary{
+  margin-right: 5px;
+}
+
+.description{
+    text-align: start;
+}
